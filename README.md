@@ -1,8 +1,10 @@
 # monorepo with NextJS13^[App dir] / yarn berry
 
--root
+/root
+```
 yarn
-
--root
+```
+/root
+```
 cd apps && cd app1 && yarn dev
-
+```
